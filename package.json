@@ -1,0 +1,10 @@
+{
+  "name": "csv-mongo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "minimist": "*",
+    "csv": "0.4.0",
+    "mongodb": "*"
+  }
+}
